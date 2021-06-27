@@ -1,5 +1,6 @@
 # application
 For Exposit
+
 Application launch path - application\starter\src\main\java\com\exposit\starter\ApplicationStarter
 
 Short description:
